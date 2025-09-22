@@ -71,7 +71,7 @@ const StudentTable = () => {
   };
 
   const columns = [
-    { title: 'ID', dataIndex: 'id', key: 'id' },  // <-- Kolom ID ditambahkan di sini
+    { title: 'ID', dataIndex: 'id', key: 'id' },  
     { title: 'Name', dataIndex: 'fullName', key: 'fullName' },
     { title: 'Class', dataIndex: 'class', key: 'class' },
     {
